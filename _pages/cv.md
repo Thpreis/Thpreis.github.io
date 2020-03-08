@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+![Example of including a picture](/files/cv.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
