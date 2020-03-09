@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This is a compendium of my grasp on Quantum Field Theory based on a variety of lectures and projects.
 
-[Download paper here](http://Thpreis.github.io/files/QFTnotes.pdf)
+[Download paper here](https://github.com/Thpreis/QFT/QFTnotes.pdf)
 
 Recommended citation: Preis, Thimo. (2020). "Quantum Field Theory." <i>Journal 1</i>. 1(1).
