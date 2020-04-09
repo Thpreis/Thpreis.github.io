@@ -8,7 +8,7 @@ venue: 'Not published'
 paperurl: 'http://Thpreis.github.io/files/QFTnotes.pdf'
 citation: 'Preis, Thimo. (2020). &quot;Quantum Field Theory.&quot; <i>Not published</i>. 1(1).'
 ---
-![Quantum Field Theory](http://thpreis.github.io/files/QFTnotes.pdf) 
+[Quantum Field Theory](http://thpreis.github.io/files/QFTnotes.pdf) 
 This is a compendium about my understanding of Quantum Field Theory. It is a collection of 6 different QFT lectures I attended, corresponding Mathematics lectures and subsequent lectures in Conformal Field Theory, String Theory and my understanding of other advanced topics related to the subject. 
 
 

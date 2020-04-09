@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theoretical physicist transitioning into machine learning"
+title                    : "Thimo Preis"
 title_separator          : "-"
 name                     : &name "Thimo Preis"
-description              : &description "Physicist, effective altruist, singer with a passion for artifical intelligence."
+description              : &description "Student of Theoretical Physics at [Durham](https://www.ippp.dur.ac.uk/) and [Heidelberg University](https://www.thphys.uni-heidelberg.de/index.php?lang=e)."
 url                      : https://thpreis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Thpreis/thpreis.github.io"
@@ -49,17 +49,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# Social Sharing
-twitter:
-  username               : &twitter
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
@@ -72,15 +61,11 @@ analytics:
 author:
   name             : "Thimo Preis"
   avatar           : "profile.png"
-  bio              : "Physicist with a love for effective atruism, machine learning and singing."
+  bio              : "Student of Theoretical Physics at [Durham](https://www.ippp.dur.ac.uk/) and [Heidelberg University](https://www.thphys.uni-heidelberg.de/index.php?lang=e) with an interest in Effective Altruism, AI and singing."
   location         : "Durham, UK"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "thimo.p.preis@durham.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "Thpreis"
   linkedin         : "https://www.linkedin.com/in/thimo-preis-24b112193/"
-  orcid            : "http://orcid.org/yourorcidurl"
-  twitter          : "replacethistwitterhandle"
 
 
 # Reading Files
