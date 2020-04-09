@@ -8,23 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
-What this website is about
-======
-Something ...,
-files to be found on my [github](https://github.com/Thpreis).
+Hi there !
+
+I am Thimo, a student of theoretical physics at [Durham](https://www.ippp.dur.ac.uk/) and [Heidelberg](https://www.thphys.uni-heidelberg.de/) University. With my background in physics, I am 
+very interested in complex, emergent phenomena regarding different (energy) scales of systems in the context of non-equilibirum Quantum Field Theory. Having written my B.Sc. thesis about the formation of
+structures in Cosmology, I am very passionate about phenomena on the biggest and smallest scales, and, in particular, how the scaling of these phenomena is correlated with their respective degrees of freedom. 
+
+Currently, I am working on my M.Sc. thesis on the intersection of AI and physics, as I have gotten more and more interested in contributing to the field of [AI safety research](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like).
+Having been involved in the [effective altruism movement](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/), I quickly come to the realization that the advent of general artificial intelligence (AGI) will be one of the major tipping points of this centry, the steep progress of climate change being another. Therefore, I am very interested in contributing to making AI architectures robust, sustainable and aligned with human values, especially to the question of discrimination present in our society. Additionally, I am also actively trying to contribute to tackling [climate change](https://www.climatechange.ai/) by employing my physics background and machine learning techniques.
+These two (interconnected) fields are the ones I want to contribute to in the future, which is why I am currently looking for research and internship opportunities to broaden my perspective.
+
+Please feel free to [reach out](mailto:preis@stud.uni-heidelberg.de) if you have questions, topics you want to discuss, recommendations, criticism or any other reason you might be interested to talk to me.
 
 
-A subtitle
-------
-Some interesting ideas.
 
-**Markdown generator**
-
-Example: editing a markdown file for a talk
-![Example of including a picture](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

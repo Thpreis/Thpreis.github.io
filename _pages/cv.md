@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 -----
-* M.Sc. Physics, Heidelberg University, Germany, Spring 2022
-* M.Sc. Particles, Strings and Cosmology, Durham University, UK, Fall 2020
+* M.Sc. Physics, [Heidelberg University](https://www.thphys.uni-heidelberg.de/index.php?lang=e), Germany, Spring 2022
+* M.Sc. Particles, Strings and Cosmology, [Durham University](https://www.ippp.dur.ac.uk/), UK, Fall 2020
 * B.Sc. in Physics, Heidelberg University, Janury 2019
 * Summer School, Yale University Summer 2018
 * Abitur (A-levels), Rudolf Steiner School, Hamburg, Germany
