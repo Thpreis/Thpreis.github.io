@@ -8,34 +8,27 @@ redirect_from:
 ---
 
 {% include base_path %}
-![Example of including a picture](/files/cv.pdf)
+![Download my cv](/files/cv.pdf)
 Education
 ======
-* Summer School, Yale University 2018
-* B.Sc. in Physics, Heidelberg University, 2019
-* M.S. in Theoretical Physics, Durham University, 2020
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. Physics, Heidelberg University, Germany, Spring 2022
+* M.Sc. Particles, Strings and Cosmology, Durham University, UK, Fall 2020
+* B.Sc. in Physics, Heidelberg University, Janury 2019
+* Summer School, Yale University Summer 2018
+* Abitur (A-levels), Rudolf Steiner School, Hamburg, Germany
 
-Work experience
+Internships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Astronomy Department at Yale University, supervised by Frank C. van den Bosch. Project 'Probing the Spherical Jeans Equations with Numerical Dark Matter Simulations', Summer 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Astrophysics Department at Heidelberg University, supervised by Matthias Bartelmann. Project 'Correlation Distribution Function in Kinetic Field Theory', Summer 2017
+
+* XFEL collider at Deutsches Elektronen-Synchrotron (DESY) in Hamburg, supervised by Joachim Pflüger. Project 'Multifilament Coil for a Moving Wire System', Spring 2012
   
-Skills
+Scholarships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Full Scholarship by Studienstiftung des Deutschen Volkes (German Academic Scholarship Foundation)
+* Scholarship by Heidelberg University to attend 'Yale Summer Sessions 2018'.
 
 Publications
 ======
@@ -49,12 +42,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+
+Technical Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages
+   * Python with data science stack: Jupyter Notebook, NumPy, SciPy, Pandas, PyTorch, scikit-learn, TensorFlow.
+   * C++
+   * LaTeX
+   * Git
