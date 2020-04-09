@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-![Download my cv](/files/cv.pdf)
+[Download my cv](/files/cv.pdf)
 Education
 ======
 * M.Sc. Physics, Heidelberg University, Germany, Spring 2022
