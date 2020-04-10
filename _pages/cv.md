@@ -18,6 +18,13 @@ Education
 * Summer School, Yale University Summer 2018
 * Abitur (A-levels), Rudolf Steiner School, Hamburg, Germany
 
+Additional academic activities
+-----
+* February 2020 OxFID 2020 Beyond Pledges, Oxford, Oxford University
+* February 2020 CiQ 2020, Event on Quantum Technologies, Bristol, Bristol University
+* November 2019 57th Meeting of the North British Mathematical Physics Seminar, Durham, Durham University
+* September 2019 Quantum Information Theory and Geometry, Krakow, Summer-Academy by German Academic Scholarship Foundation
+
 Internships
 -----
 * Astronomy Department at Yale University, supervised by Frank C. van den Bosch. Project 'Probing the Spherical Jeans Equations with Numerical Dark Matter Simulations', Summer 2018
