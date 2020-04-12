@@ -23,7 +23,7 @@ This my B.Sc. thesis outlining the research I conducted under the supervision of
 from 04.2018-12.2018. The subject of this thesis is the formation of structures in Cosmology. Deploying a novel framework for structure
 formation developed by Bartelmann et al., [Kinetic Field Theory](https://ui.adsabs.harvard.edu/abs/2019AnP...53100446B/abstract), we calculate the two-point density-fluctuation power spectrum to linear order in perturbations.
 This object gives us an insight about the amount of structures we find in the Universe over different length scales. The findings of this thesis
-is that observations are reproduced very well by the framework of KFT already to first order in perturbation but on small scales, where the explicit
-approximation scheme employed breaks down due to small-scale gravitational interactions.
+is that observations are reproduced very well by the framework of KFT already to first order in perturbation but on large scales, where the explicit
+approximation scheme employed breaks down due to gravitational interactions which are neglected by the free streaming of particles.
 
 Recommended citation: Preis, Thimo. (2018). "BSc Thesis." <i>Not published</i>. 4(4).
