@@ -12,7 +12,7 @@ redirect_from:
 Hi there !
 
 I am Thimo, a student of theoretical physics at [Durham](https://www.ippp.dur.ac.uk/) and [Heidelberg](https://www.thphys.uni-heidelberg.de/) University. With my background in physics, I am 
-very interested in complex, emergent phenomena regarding different (energy) scales of systems in the context of non-equilibirum Quantum Field Theory. Having written my B.Sc. thesis about the formation of
+very interested in complex, emergent phenomena regarding different (energy) scales of systems in the context of non-equilibirum Quantum Field Theory. Investigating the emergence of entropy, the thermalization process and the scaling of informational properties, I want to learn more about the theoretical foundations of quantum theory and its applications in solid-state physics and quantum computing.  Having written my B.Sc. thesis about the formation of
 structures in Cosmology, I am passionate about phenomena on the biggest and smallest scales, and, in particular, how the scaling of these phenomena is correlated with their respective degrees of freedom. 
 
 Currently, I am working on my M.Sc. thesis on the intersection of AI and physics, as I have gotten more and more interested in contributing to the field of [AI safety research](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like).
