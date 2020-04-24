@@ -129,7 +129,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  ressources:
+  ressource:
     output: true
     permalink: /:collection/:path/
   portfolio:

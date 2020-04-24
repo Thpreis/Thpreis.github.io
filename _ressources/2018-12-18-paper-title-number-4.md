@@ -2,8 +2,8 @@
 title: "B.Sc. Thesis: First order perturbative treatment of the cosmic
 density-fluctuation power spectrum in the Zel’dovich
 approximation"
-collection: publication
-permalink: /publications/2018-12-18-paper-title-number-4
+collection: ressource
+permalink: /ressources/2018-12-18-paper-title-number-4
 excerpt: 'Building upon the framework of Kinetic Field Theory developed by Bartelmann et al.,
 we calculate the cosmic two-point density-fluctuation power spectrum to first order in
 perturbations for particles moving along Zel’dovich trajectories. The validity of our treat-
@@ -14,9 +14,7 @@ ture formation as recovered in conventional approaches. The overall behaviour fo
 for the non-linear density-fluctuation power spectrum qualitatively agrees with results
 obtained in numerical N-body simulations.'
 date: 2018-12-18
-venue: 'Not published'
 paperurl: 'http://Thpreis.github.io/files/Bsc_Thesis_ThimoPreis_digital.pdf'
-citation: 'Preis, Thimo. (2020). &quot;BSc Thesis.&quot; <i>Not published</i>. 4(4).'
 ---
 [BSc Thesis](http://thpreis.github.io/files/Bsc_Thesis_ThimoPreis_digital.pdf) 
 This my B.Sc. thesis outlining the research I conducted under the supervision of [Prof. Bartelmann](http://www.ita.uni-heidelberg.de/research/bartelmann/) at Heidelberg University
@@ -26,4 +24,3 @@ This object gives us an insight about the amount of structures we find in the Un
 is that observations are reproduced very well by the framework of KFT already to first order in perturbation but on large scales, where the explicit
 approximation scheme employed breaks down due to gravitational interactions which are neglected by the free streaming of particles.
 
-Recommended citation: Preis, Thimo. (2018). "BSc Thesis." <i>Not published</i>. 4(4).
